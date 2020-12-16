@@ -1,0 +1,26 @@
+p  {
+	color: blue;
+	font-size:200%;
+	background-color: tomato;
+
+}
+a:link{
+	color: red;
+	background-color: yellow;
+}
+img {
+
+     width: 200px;
+     height: 100px
+
+}
+
+body{
+
+
+background-image: url(4.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
